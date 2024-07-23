@@ -1,10 +1,10 @@
 KDE Plasma 6: 
-  Apple-Sonoma-Dark global theme
+  Apple-Sonoma-Dark as global theme,
   Lain splash screen
 
   widgets:
-    CatWalk
-    Darwin Menu 
+    CatWalk,
+    Darwin Menu, 
     Thermal Monitor
 
 Terminal: Alacritty
