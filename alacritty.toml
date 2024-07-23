@@ -1,0 +1,15 @@
+import = [
+    "~/.config/alacritty/themes/themes/dark_pride.toml"
+]
+
+
+[window]
+opacity = 0.5
+dynamic_title = false
+dynamic_padding = true
+blur = true
+decorations = "Full"
+
+[cursor]
+unfocused_hollow = true
+style = "Beam"
