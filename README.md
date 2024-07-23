@@ -7,7 +7,7 @@ KDE Plasma 6:
     Darwin Menu, 
     Thermal Monitor
 
-Terminal: Alacritty
+Terminal: Alacritty (https://github.com/alacritty/alacritty-theme)
 
 Shell: bash
 
